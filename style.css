@@ -129,7 +129,7 @@ body {
 }
 #baloons {
   width: 100%;
-  height: 20%;
+  height: auto;
   position: absolute;
   top: 0;
 }
